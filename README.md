@@ -1,2 +1,1 @@
-# Bootstrap
-My Bootstrap project
+TinDog Starting Files
